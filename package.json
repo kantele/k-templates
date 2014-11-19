@@ -1,5 +1,5 @@
 {
-  "name": "derby-templates",
+  "name": "k-templates",
   "version": "0.1.13",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "saddle": "^0.4.3",
-    "serialize-object": "~0.0.5"
+    "k-saddle": "^0.4.3",
+    "k-serialize-object": "~0.0.5"
   },
   "devDependencies": {
     "expect.js": "~0.3.1",
