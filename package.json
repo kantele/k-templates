@@ -9,8 +9,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "k-saddle": "^0.4.3",
-    "k-serialize-object": "~0.0.5"
+    "k-saddle": "*",
+    "k-serialize-object": "*"
   },
   "devDependencies": {
     "expect.js": "~0.3.1",
